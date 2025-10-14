@@ -6,8 +6,7 @@
 	<artifactId>administrativo-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Projeto Admin Demo</name>
-	<description>Projeto Administrativo para cadastros de Clientes e Produtos
-		usando Hibernate e JPA</description>
+	<description>Projeto Administrativo para cadastros de Clientes e Produtos usando Hibernate e JPA</description>
 
 	<properties>
 		<maven.compiler.source>17</maven.compiler.source>
